@@ -1,7 +1,9 @@
- 
+
  /*====================== header style ================== */
-header{
+
+ header{
     background: #264653;
+    width: 100%;
 }
 .btn{
     color: #fff;
