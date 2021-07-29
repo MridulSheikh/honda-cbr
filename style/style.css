@@ -34,9 +34,7 @@
     color: #252b42e0;
 }
 /* ============================ question section style ======================== */
-.dropdown p{
-    color: #7E848C;
-}
+
 .brown-c{
     color: #0A0826;
 }
@@ -46,6 +44,9 @@ footer{
 }
 .reg{
     background: rgba(73, 43, 43, 0.11);
+}
+.accordion-body{
+    color: #7E848C;
 }
 /* ====================== hover making=========================== */
 .dropdown:hover{
