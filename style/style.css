@@ -1,0 +1,51 @@
+ 
+ /*====================== header style ================== */
+header{
+    background: #264653;
+}
+.btn{
+    color: #fff;
+    background: #E76F51;
+}
+.home p{
+    color: #E0E0E0;
+}
+/* ======================= feature bike style ======================= */
+.fbp{
+    color: #E76F51;
+}
+.filter{
+    filter: grayscale(100%);
+}
+/* ======================= happy clint style ============================= */
+.card-img-top{
+    height: 149px;  /*------------------- image width problem fix -------------------------------- */
+    width: 149px;
+}
+.ratting{
+    color: #E67C40;
+}
+.card-text{
+    color: #6C6C6C;
+}
+.b-n-k{
+    color: #252b42e0;
+}
+/* ============================ question section style ======================== */
+.dropdown p{
+    color: #7E848C;
+}
+.brown-c{
+    color: #0A0826;
+}
+footer{
+    background: #0B0D17;
+    color: #D9DBE1;
+}
+.reg{
+    background: rgba(73, 43, 43, 0.11);
+}
+/* ====================== hover making=========================== */
+.dropdown:hover{
+    cursor: pointer;
+}
